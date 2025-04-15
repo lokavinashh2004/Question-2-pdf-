@@ -3,3 +3,4 @@ pandas
 PyPDF2 
 google-generativeai 
 openpyxl
+uvicorn==0.15.0
