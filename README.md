@@ -4,7 +4,7 @@ A web application for uploading and processing medical report PDFs.
 
 ## Live Demo
 The application is deployed on Render:  
-🔗 [https://medpdf.onrender.com/process](https://medpdf.onrender.com/process)
+🔗 [https://medpdf.onrender.com/process](https://medpdf.onrender.com/)
 
 
 Instructions to implement the program
@@ -27,4 +27,4 @@ pip install -r requirements.txt
 use python app.py command in the terminal to run the program
 LIVE URL
 i have deployed this in render
-url for it is https://medpdf.onrender.com/process
+url for it is https://medpdf.onrender.com
